@@ -1,0 +1,97 @@
+solid cube
+  # Передняя грань (Z = 1.0)
+  facet normal 0.0 0.0 1.0
+    outer loop
+      vertex 1.0 1.0 1.0
+      vertex -1.0 1.0 1.0
+      vertex -1.0 -1.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 1.0
+    outer loop
+      vertex -1.0 -1.0 1.0
+      vertex 1.0 -1.0 1.0
+      vertex 1.0 1.0 1.0
+    endloop
+  endfacet
+
+  # Задняя грань (Z = -1.0)
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 1.0 1.0 -1.0
+      vertex 1.0 -1.0 -1.0
+      vertex -1.0 -1.0 -1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex -1.0 -1.0 -1.0
+      vertex -1.0 1.0 -1.0
+      vertex 1.0 1.0 -1.0
+    endloop
+  endfacet
+
+  # Правая грань (X = 1.0)
+  facet normal 1.0 0.0 0.0
+    outer loop
+      vertex 1.0 1.0 1.0
+      vertex 1.0 -1.0 1.0
+      vertex 1.0 -1.0 -1.0
+    endloop
+  endfacet
+  facet normal 1.0 0.0 0.0
+    outer loop
+      vertex 1.0 -1.0 -1.0
+      vertex 1.0 1.0 -1.0
+      vertex 1.0 1.0 1.0
+    endloop
+  endfacet
+
+  # Левая грань (X = -1.0)
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex -1.0 1.0 1.0
+      vertex -1.0 1.0 -1.0
+      vertex -1.0 -1.0 -1.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex -1.0 -1.0 -1.0
+      vertex -1.0 -1.0 1.0
+      vertex -1.0 1.0 1.0
+    endloop
+  endfacet
+
+  # Верхняя грань (Y = 1.0)
+  facet normal 0.0 1.0 0.0
+    outer loop
+      vertex 1.0 1.0 1.0
+      vertex 1.0 1.0 -1.0
+      vertex -1.0 1.0 -1.0
+    endloop
+  endfacet
+  facet normal 0.0 1.0 0.0
+    outer loop
+      vertex -1.0 1.0 -1.0
+      vertex -1.0 1.0 1.0
+      vertex 1.0 1.0 1.0
+    endloop
+  endfacet
+
+  # Нижняя грань (Y = -1.0)
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 1.0 -1.0 1.0
+      vertex -1.0 -1.0 1.0
+      vertex -1.0 -1.0 -1.0
+    endloop
+  endfacet
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex -1.0 -1.0 -1.0
+      vertex 1.0 -1.0 -1.0
+      vertex 1.0 -1.0 1.0
+    endloop
+  endfacet
+endsolid cube

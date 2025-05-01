@@ -1,0 +1,156 @@
+solid point_cloud
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,116456 2,842706 0,002394
+    vertex 0,117456 2,842706 0,002394
+    vertex 0,116456 2,843706 0,002394
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,116456 2,842706 0,002394
+    vertex 0,117456 2,842706 0,002394
+    vertex 0,116456 2,843706 0,002394
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,201103 1,883375 0,001566
+    vertex 0,202103 1,883375 0,001566
+    vertex 0,201103 1,884375 0,001566
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,218278 1,691226 0,001550
+    vertex 0,219278 1,691226 0,001550
+    vertex 0,218278 1,692226 0,001550
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,266721 1,153042 0,001414
+    vertex 0,267721 1,153042 0,001414
+    vertex 0,266721 1,154042 0,001414
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,217231 1,702912 0,001518
+    vertex 0,218231 1,702912 0,001518
+    vertex 0,217231 1,703912 0,001518
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,269589 1,120677 0,001368
+    vertex 0,270589 1,120677 0,001368
+    vertex 0,269589 1,121677 0,001368
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,269589 1,120677 0,001368
+    vertex 0,270589 1,120677 0,001368
+    vertex 0,269589 1,121677 0,001368
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,220350 1,667318 0,001445
+    vertex 0,221350 1,667318 0,001445
+    vertex 0,220350 1,668318 0,001445
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,283597 0,966276 0,001184
+    vertex 0,284597 0,966276 0,001184
+    vertex 0,283597 0,967276 0,001184
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,244003 1,400651 0,001234
+    vertex 0,245003 1,400651 0,001234
+    vertex 0,244003 1,401651 0,001234
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,253192 1,297744 0,001209
+    vertex 0,254192 1,297744 0,001209
+    vertex 0,253192 1,298744 0,001209
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,243172 1,409044 0,001175
+    vertex 0,244172 1,409044 0,001175
+    vertex 0,243172 1,410044 0,001175
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,285590 0,938153 0,000983
+    vertex 0,286590 0,938153 0,000983
+    vertex 0,285590 0,939153 0,000983
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,270464 1,104372 0,001023
+    vertex 0,271464 1,104372 0,001023
+    vertex 0,270464 1,105372 0,001023
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,251436 1,315441 0,001070
+    vertex 0,252436 1,315441 0,001070
+    vertex 0,251436 1,316441 0,001070
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,251093 1,318992 0,001061
+    vertex 0,252093 1,318992 0,001061
+    vertex 0,251093 1,319992 0,001061
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,259011 1,230831 0,001045
+    vertex 0,260011 1,230831 0,001045
+    vertex 0,259011 1,231831 0,001045
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,264807 1,166285 0,001026
+    vertex 0,265807 1,166285 0,001026
+    vertex 0,264807 1,167285 0,001026
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,252388 1,304674 0,001060
+    vertex 0,253388 1,304674 0,001060
+    vertex 0,252388 1,305674 0,001060
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,252388 1,304674 0,001060
+    vertex 0,253388 1,304674 0,001060
+    vertex 0,252388 1,305674 0,001060
+  endloop
+endfacet
+facet normal 0.0 0.0 0.0
+  outer loop
+    vertex 0,279718 1,000740 0,000907
+    vertex 0,280718 1,000740 0,000907
+    vertex 0,279718 1,001740 0,000907
+  endloop
+endfacet
+endsolid point_cloud
